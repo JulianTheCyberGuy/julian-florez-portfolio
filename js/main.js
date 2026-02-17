@@ -17,6 +17,6 @@ document.addEventListener("DOMContentLoaded", () => {
       `Name: ${name}\nEmail: ${email}\n\nMessage:\n${msg}\n`
     );
   
-    window.location.href = `mailto:YOUR_EMAIL_HERE?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:florezdigitalsolutions@gmail.com?subject=${subject}&body=${body}`;
     return false;
   }  
