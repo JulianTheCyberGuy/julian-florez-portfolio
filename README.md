@@ -1,38 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Florez Digital Solutions – Portfolio</title>
-    <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            line-height: 1.6;
-            margin: 40px;
-            max-width: 900px;
-        }
-
-        h1, h2, h3 {
-            margin-top: 30px;
-        }
-
-        hr {
-            margin: 30px 0;
-        }
-
-        pre {
-            background: #f4f4f4;
-            padding: 15px;
-            overflow-x: auto;
-        }
-
-        ul {
-            margin-top: 10px;
-        }
-    </style>
-</head>
-<body>
-
 <h1>Florez Digital Solutions – Portfolio</h1>
 
 <p>
